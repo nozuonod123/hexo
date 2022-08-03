@@ -3,15 +3,17 @@ menu:
   主页: /
   所有文章: /archives
   # 随笔: /tags/随笔
+live2d:
+  enable: true
 
 # SubNav
 subnav:
-  github: "https://github.com/mingyangShang"
-  zhihu: "https://www.zhihu.com/people/shang-ming-yang-54"
-  # douban: "http://www.douban.com/people/122465800/"
+  github: "#"
+  zhihu: "#"
+  # douban: "#"
   #mail: "#"
-  facebook: "https://www.facebook.com/profile.php?id=100010973622690"
-  google: "shangmingyanggo@gmail.com"
+  facebook: "#"
+  google: "#"
   #twitter: "#"
   #linkedin: "#"
 
@@ -59,6 +61,4 @@ friends: false
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 大连理工大学本科毕业，曾为阿里巴巴天猫无线实习生、腾讯MIG职实习生。熟悉android 开发，爱读书、爱打台球、爱技术，崇尚简洁的美。干自己该干的事，做自己想做的人。
-live2d:
-  enable: true
+aboutme: 爱玩游戏，能找到该做的事，希望时间不要白白流逝。
