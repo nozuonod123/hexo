@@ -60,3 +60,5 @@ friends: false
 #aboutme: false
 #开启——
 aboutme: 大连理工大学本科毕业，曾为阿里巴巴天猫无线实习生、腾讯MIG职实习生。熟悉android 开发，爱读书、爱打台球、爱技术，崇尚简洁的美。干自己该干的事，做自己想做的人。
+live2d:
+  enable: true
