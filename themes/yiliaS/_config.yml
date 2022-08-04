@@ -5,7 +5,16 @@ menu:
   # 随笔: /tags/随笔
 live2d:
   enable: true
-
+  scriptFrom: local  
+  model:
+    use: live2d-widget-model-wanko    //妹子有很多个，叫名字他才出来
+  display:    
+    position: right   //位置
+    width: 150    //妹子宽度
+    height: 300    //妹子高度
+  mobile:
+    show: true
+    
 # SubNav
 subnav:
   github: "#"
