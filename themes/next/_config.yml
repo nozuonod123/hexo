@@ -50,7 +50,7 @@ favicon:
   #ms_browserconfig: /images/browserconfig.xml
 
 # Show multilingual switcher in footer.
-language_switcher: zh-Hans
+language_switcher: true
 
 footer:
   # Specify the date when the site was setup. If not defined, current year will be used.
