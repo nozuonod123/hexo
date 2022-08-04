@@ -4,14 +4,17 @@ menu:
   所有文章: /archives
   # 随笔: /tags/随笔
 
+live2d:
+  enable: true
+
 # SubNav
 subnav:
-  github: "https://github.com/mingyangShang"
-  zhihu: "https://www.zhihu.com/people/shang-ming-yang-54"
-  # douban: "http://www.douban.com/people/122465800/"
+  github: "#"
+  zhihu: "#"
+  # douban: "#"
   #mail: "#"
-  facebook: "https://www.facebook.com/profile.php?id=100010973622690"
-  google: "shangmingyanggo@gmail.com"
+  facebook: "#"
+  google: "#"
   #twitter: "#"
   #linkedin: "#"
 
