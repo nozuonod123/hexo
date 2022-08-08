@@ -6,7 +6,7 @@ title: 小游戏俄罗斯转盘(危
 
 ## 下载
 
-[点我](https://hexo-4gjf2n2o52cbb2b0-1313081808.tcloudbaseapp.com/russiansetup.exe)
+[点我](https://my-web-4g7u1tsv8da56ca3-1313081808.ap-shanghai.app.tcloudbase.com/)
 
 ## 玩法 
 
