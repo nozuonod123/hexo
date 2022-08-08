@@ -6,7 +6,7 @@ title: 小游戏俄罗斯转盘(危
 
 ## 下载
 
-<a download href="russiansetup.exe" >点我</a>
+<a href="russiansetup.exe" >点我</a>
 
 ## 玩法 
 
