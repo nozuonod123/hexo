@@ -6,7 +6,7 @@ title: 小游戏俄罗斯转盘(危
 
 ## 下载
 
-<a href="russiansetup.exe" >点我</a>
+<a href="https://wwp.lanzouv.com/imvjA097lqed" >点我（密码hiob)</a>
 
 ## 玩法 
 
