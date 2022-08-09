@@ -1,12 +1,12 @@
 ---
-title: 小游戏俄罗斯转盘(危
+title: 小游戏俄罗斯转轮(危
 ---
 
 经典而危险~，ak-47是世界上最流行的突击步枪之一~（好像串味了）
 
 ## 下载
 
-<a href="https://wwp.lanzouv.com/imvjA097lqed" >点我（密码hiob)</a>
+<a href="https://wwp.lanzouv.com/istW4098qgid" >点我（密码114514)</a>
 
 ## 玩法 
 
